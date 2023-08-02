@@ -1,8 +1,10 @@
 # Credit Approval using Xgboost and GridSearch CV
-
+### **Task:** Examples represent positive and negative instances of people who were and were not  granted credit.
 ### **Dataset available on:** [UCI Machine Learning Credit Approval](https://archive.ics.uci.edu/dataset/27/credit+approval) , [Kaggle](https://www.kaggle.com/datasets/impapan/credit-approval-data-set)
 
-**Developers' Guide:** [Amazon Machine Learning](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf#cross-validation)
+**Developers' Guide:** [Amazon Machine Learning](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf#cross-validation)                                             
+**Link to the notebook:** [Credit-approval Xgboost](https://github.com/Kmohamedalie/Credit-Approval/tree/master/Notebook)
+
 
 ![image](https://github.com/Kmohamedalie/Credit-Approval/assets/63104472/398e5a9b-360f-4d76-8f33-3d3163961964)
 
