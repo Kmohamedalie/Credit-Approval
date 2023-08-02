@@ -6,7 +6,8 @@
 **Link to the notebook:** [Credit-approval Xgboost](https://github.com/Kmohamedalie/Credit-Approval/tree/master/Notebook)
 
 
-![image](https://github.com/Kmohamedalie/Credit-Approval/assets/63104472/398e5a9b-360f-4d76-8f33-3d3163961964)
+<!--   ![image](https://github.com/Kmohamedalie/Credit-Approval/assets/63104472/398e5a9b-360f-4d76-8f33-3d3163961964)-->
+![image](https://github.com/Kmohamedalie/Credit-Approval/assets/63104472/869a8b95-07cf-4769-b9e1-e8ce81d1f7d5)
 
 
 1. Title: Credit Approval
