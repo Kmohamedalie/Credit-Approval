@@ -3,14 +3,27 @@
 ### **Dataset available on:** [UCI Machine Learning Credit Approval](https://archive.ics.uci.edu/dataset/27/credit+approval) , [Kaggle](https://www.kaggle.com/datasets/impapan/credit-approval-data-set)
 
 **Developers' Guide:** [Amazon Machine Learning](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf#cross-validation)                                             
-**Link to the notebook:** [Credit-approval Xgboost](https://github.com/Kmohamedalie/Credit-Approval/blob/master/Notebook/Credit_Approval_Xgboost.ipynb)
+**Complete notebook:** [Credit-approval Xgboost](https://github.com/Kmohamedalie/Credit-Approval/blob/master/Notebook/Credit_Approval_Xgboost.ipynb)
+
+
+**Metrics achieved:**
+
+| Algorithm | Precision | Recall | F1-score | Accuracy |
+|-----------|-----------|--------|----------|----------|
+| Xgboost (GridSearchCV)  | 85%       |  85%   | 85%      | 85%    |
+
 
 
 <!--   ![image](https://github.com/Kmohamedalie/Credit-Approval/assets/63104472/398e5a9b-360f-4d76-8f33-3d3163961964)-->
 ![image](https://github.com/Kmohamedalie/Credit-Approval/assets/63104472/869a8b95-07cf-4769-b9e1-e8ce81d1f7d5)
 
 
-1. Title: Credit Approval
+
+
+## **Additional Information:**
+
+
+1. **Title:** Credit Approval
 
 2. Sources: 
     (confidential)
