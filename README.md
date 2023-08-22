@@ -6,7 +6,7 @@
 **Complete notebook:** [Credit-approval Xgboost](https://github.com/Kmohamedalie/Credit-Approval/blob/master/Notebook/Credit_Approval_Xgboost.ipynb)
 
 
-**Metrics achieved:**
+**Metrics achieved:** 
 
 | Algorithm | Precision | Recall | F1-score | Accuracy |
 |-----------|-----------|--------|----------|----------|
